@@ -1,3 +1,4 @@
 # hello-world
 My very first repository
-I am a young, vibrant, passionate and aspiring full stack developer.
+Young, vibrant, passionate and an aspiring full stack developer.
+I am  music, Music is me.
